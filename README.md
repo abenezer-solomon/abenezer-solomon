@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Abenezer Solomon 👋
 
-<!--
-**abenezer-solomon/abenezer-solomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent high school graduate from Ethiopia with a strong interest in **STEM, artificial intelligence, machine learning, astronomy, and technology**.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and applying what I learn to real-world problems. I'm particularly interested in how technology can expand access to education and create opportunities for communities with limited access to resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- Building projects in **AI, machine learning, and data science**
+- Exploring the use of technology to address **education and sustainability challenges**
+- Developing my programming and problem-solving skills through hands-on projects
+
+## 🧠 Skills & Learning
+
+- Python
+- Machine Learning
+- Data Analysis
+- Artificial Intelligence
+- Programming Fundamentals
+- Git & GitHub
+
+## 🌍 Community & Leadership
+
+**Co-Founder — Kallamino Tech Community**
+
+A student-led initiative created to help students develop practical computer and technology skills.
+
+**Vice President — Astrophysics Club**
+
+Interested in astronomy, astrophysics, and science outreach.
+
+## 🔭 Interests
+
+AI & Machine Learning • Astronomy & Astrophysics • Educational Technology • Data Science • Climate & Sustainability
+
+## 📂 Featured Projects
+
+My projects will be added here as I build and document them.
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/abenezer-solomon-87a1ab383/)
